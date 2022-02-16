@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Demonstrations in physical optics
 uid: c5dc6251-78e7-d9d2-f476-0d31f969a138
 ---

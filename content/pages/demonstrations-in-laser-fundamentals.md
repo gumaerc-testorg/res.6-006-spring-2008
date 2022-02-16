@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Demonstrations in laser fundamentals
 uid: f31e0ead-d271-7463-6abf-bbb7dc442664
 ---

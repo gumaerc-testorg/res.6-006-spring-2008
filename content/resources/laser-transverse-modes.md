@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in laser fundamentals
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Laser Transverse Modes
 uid: ec96d0c5-81e6-9066-e399-769956c6b01b
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/laser-fund-demo-7_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/25e36faafd365570bf3c122da134a02c_o1YjIyzshh8.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/25e36faafd365570bf3c122da134a02c_o1YjIyzshh8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/o1YjIyzshh8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/e9bb207902e819cbf121436cfca875d4_o1YjIyzshh8.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/e9bb207902e819cbf121436cfca875d4_o1YjIyzshh8.pdf
 video_metadata:
   youtube_id: o1YjIyzshh8
 ---

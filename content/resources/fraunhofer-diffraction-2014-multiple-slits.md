@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in physical optics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Fraunhofer Diffraction \u2014 Multiple Slits"
 uid: ebf07715-82a7-e487-ef7a-f9abbd7cc94b
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/demo-24_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/7e891f5ffa2453538ad62c266c76046b_KlKduOOHukU.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/7e891f5ffa2453538ad62c266c76046b_KlKduOOHukU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/KlKduOOHukU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/a4358a5a624add5f56ff888da866e1fb_KlKduOOHukU.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/a4358a5a624add5f56ff888da866e1fb_KlKduOOHukU.pdf
 video_metadata:
   youtube_id: KlKduOOHukU
 ---

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/f03ea47c621b5223aac33544df726015_WyMF3TNm_UU.vtt
+file: /media/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/f03ea47c621b5223aac33544df726015_WyMF3TNm_UU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: f03ea47c-621b-5223-aac3-3544df726015

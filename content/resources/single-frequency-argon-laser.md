@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in laser fundamentals
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Single Frequency Argon Laser
 uid: f2f34c5e-51f7-a9a6-199a-4ef24630a4b9
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/laser-fund-demo-12_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/ef56bff979905679bbfe33f63e792f51_95M4uD6WsSE.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/ef56bff979905679bbfe33f63e792f51_95M4uD6WsSE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/95M4uD6WsSE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/e8570b740f8d360b8952acf4823c56ac_95M4uD6WsSE.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/e8570b740f8d360b8952acf4823c56ac_95M4uD6WsSE.pdf
 video_metadata:
   youtube_id: 95M4uD6WsSE
 ---

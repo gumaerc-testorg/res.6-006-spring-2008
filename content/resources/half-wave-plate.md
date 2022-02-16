@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in physical optics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Half-wave Plate
 uid: 45a6f40e-9f3e-4dec-cd9e-d13a76eef59c
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/demo-4_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/9b835f9ced1455f0ab8aa66c3e91cd17_sUVXHfUVsY.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/9b835f9ced1455f0ab8aa66c3e91cd17_sUVXHfUVsY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/_sUVXHfUVsY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/2efd16561649f3e508c5dcab09ec4f9e_sUVXHfUVsY.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/2efd16561649f3e508c5dcab09ec4f9e_sUVXHfUVsY.pdf
 video_metadata:
   youtube_id: _sUVXHfUVsY
 ---

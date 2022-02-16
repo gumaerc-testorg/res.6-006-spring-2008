@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in laser fundamentals
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Light Amplifier
 uid: af1c0823-1449-7ffe-c00d-098253e6619c
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/laser-fund-demo-2_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/3ce2ff4445ea577e811457938eba11f3_jny_9JMBynU.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/3ce2ff4445ea577e811457938eba11f3_jny_9JMBynU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/jny_9JMBynU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/332dd4ea44c17442d79f53c9acf017a6_jny_9JMBynU.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/332dd4ea44c17442d79f53c9acf017a6_jny_9JMBynU.pdf
 video_metadata:
   youtube_id: jny_9JMBynU
 ---

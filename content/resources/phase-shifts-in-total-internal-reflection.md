@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in physical optics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Phase Shifts in Total Internal Reflection
 uid: 79521a44-d5d6-a856-9ca1-d7d2ffde7da1
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/demo-9_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/5996b2c2799b574aa6b638a7d9355784_f8_0AtM7PXk.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/5996b2c2799b574aa6b638a7d9355784_f8_0AtM7PXk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/f8_0AtM7PXk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/dda42b99335a5ab8188ccf09256cf85c_f8_0AtM7PXk.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/dda42b99335a5ab8188ccf09256cf85c_f8_0AtM7PXk.pdf
 video_metadata:
   youtube_id: f8_0AtM7PXk
 ---

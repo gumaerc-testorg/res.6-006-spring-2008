@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Demonstrations in physical optics
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Plane Mirror Cavity \u2014 Diverging Beams"
 uid: 36b5ddad-d901-159e-8cef-9f0e42a567de
 video_files:
   archive_url: http://www.archive.org/download/MITlaser_demo/demo-19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/eeac63fa37c156159d9ca251d77c10ce_goPg4-iVa1s.vtt
+  video_captions_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/eeac63fa37c156159d9ca251d77c10ce_goPg4-iVa1s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/goPg4-iVa1s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/6c2150be67ffa4e037dfc864c3d64d1d_goPg4-iVa1s.pdf
+  video_transcript_file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/6c2150be67ffa4e037dfc864c3d64d1d_goPg4-iVa1s.pdf
 video_metadata:
   youtube_id: goPg4-iVa1s
 ---

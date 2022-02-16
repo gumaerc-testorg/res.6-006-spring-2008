@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/8b1572a72e59ac50a50aa2aaa861dec4_9pD-NW8rsdI.pdf
+file: /media/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/8b1572a72e59ac50a50aa2aaa861dec4_9pD-NW8rsdI.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 8b1572a7-2e59-ac50-a50a-a2aaa861dec4
