@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Fraunhofer Diffraction \u2014 Thin Wires"
 uid: a37c83d5-fc4d-08d7-e999-eab3ebdfa4a4
 video_files:

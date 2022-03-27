@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Fraunhofer Diffraction \u2014 Rectangular Aperture"
 uid: b426a8dd-a9f9-90d1-e9dd-e9f212371aab
 video_files:

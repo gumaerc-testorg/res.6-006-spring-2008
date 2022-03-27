@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Fraunhofer Diffraction \u2014 Crossed Multiple Slits"
 uid: bf052468-bf72-477e-3ff7-3192136c1bf0
 video_files:
