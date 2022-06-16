@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of the operation on an argon ion laser
 
 _Demonstration_ of the high intensity in the argon laser beam by burning a hole in cardboard with an unfocused laser beam
+
+
+

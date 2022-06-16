@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -30,3 +31,6 @@ Use of a linear polarizer to analyze the state of polarization of light from a l
 _Demonstration_ of the change in the state of polarization of light after reflection by two aluminum coated mirrors
 
 Use of a linear polarizer to set the state of polarization of light
+
+
+

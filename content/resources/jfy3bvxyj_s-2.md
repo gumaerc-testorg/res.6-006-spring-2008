@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/fe65a083c57851e3840e8785d98081fc_jFY3BVXYj_s.vtt
+file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/fe65a083c57851e3840e8785d98081fc_jFY3BVXYj_s.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

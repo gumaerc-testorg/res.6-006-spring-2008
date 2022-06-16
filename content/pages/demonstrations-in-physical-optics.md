@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'Optics: polarization of light and polarization manipulation, Optics:
+  reflection at dielectric interfaces, Optics: two-beam interference, Optics: multiple
+  beam interference, Optics: Fraunhofer and Fresnel diffraction, and Optics: propagation
+  in optical fibers.'
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Demonstrations in physical optics
@@ -33,7 +37,7 @@ DESCRIPTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Linear polarizer]({{< baseurl >}}/resources/linear-polarizer)
+{{% resource_link 0af3c221-6e0c-f31d-1dd8-72c5f1b991f0 "Linear polarizer" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -52,7 +56,7 @@ Use of a linear polarizer to set the state of polarization of light
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Polarization rotation using polarizers]({{< baseurl >}}/resources/polarization-rotation-using-polarizers)
+{{% resource_link dad7a7a5-e876-aa01-33f2-1a003f338dd7 "Polarization rotation using polarizers" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -71,7 +75,7 @@ Effect of polarization rotation on transmitted intensity
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Quarter-wave plate]({{< baseurl >}}/resources/quarter-wave-plate)
+{{% resource_link eca88a47-6393-df6e-7237-285e5f4d9fc2 "Quarter-wave plate" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -88,7 +92,7 @@ _Demonstration_ that there is no change in the state of polarization when propag
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Half-wave plate]({{< baseurl >}}/resources/half-wave-plate)
+{{% resource_link 45a6f40e-9f3e-4dec-cd9e-d13a76eef59c "Half-wave plate" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -105,7 +109,7 @@ _Demonstration_ that there is no change in the state of polarization when propag
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Optical isolator]({{< baseurl >}}/resources/optical-isolator)
+{{% resource_link 4028b8a8-2b25-5592-f4a1-26f10d99ed82 "Optical isolator" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -120,7 +124,7 @@ _Demonstration_ of the performance of an optical isolator using a quarter-wave p
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Scattered light in a dielectric]({{< baseurl >}}/resources/scattered-light-in-a-dielectric)
+{{% resource_link 088110e2-5aea-925b-5805-13dc8d0c77fd "Scattered light in a dielectric" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -143,7 +147,7 @@ _Demonstration_ that the state of polarization of the scattered light is the sam
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reflection at the air-glass boundary]({{< baseurl >}}/resources/reflection-at-the-air-glass-boundary)
+{{% resource_link e81fcb9c-5f8f-ac39-ba27-aa1c5250b5ed "Reflection at the air-glass boundary" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -158,7 +162,7 @@ _Demonstration_ of Brewster's angle
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reflection at the glass-air boundary]({{< baseurl >}}/resources/reflection-at-the-glass-air-boundary)
+{{% resource_link ffc4acb3-08cc-5f2f-c8e8-ceb5d255e19e "Reflection at the glass-air boundary" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -177,7 +181,7 @@ _Demonstration_ of Brewster's angle
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Phase shifts in total internal reflection]({{< baseurl >}}/resources/phase-shifts-in-total-internal-reflection)
+{{% resource_link 79521a44-d5d6-a856-9ca1-d7d2ffde7da1 "Phase shifts in total internal reflection" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -200,7 +204,7 @@ Application of this effect to making quarter-wave and half-wave plates
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Two-beam interference — collimated beams]({{< baseurl >}}/resources/two-beam-interference-2014-collimated-beams)
+{{% resource_link 253b573d-80dd-8944-fa02-325756baf9e1 "Two-beam interference — collimated beams" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -217,7 +221,7 @@ Effect of mirror translation on fringe pattern using a piezoelectric driver
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Two-beam interference — diverging beams]({{< baseurl >}}/resources/two-beam-interference-2014-diverging-beams)
+{{% resource_link c5ca5c54-6296-26ab-978b-fdf7f14600bb "Two-beam interference — diverging beams" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -234,7 +238,7 @@ Change in fringe pattern as a function of path length difference
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Destructive interference — Where does the light go?]({{< baseurl >}}/resources/destructive-interference-2014-where-does-the-light-go)
+{{% resource_link ed85dcb9-24f7-ff8d-9546-8bdfc6157e4b "Destructive interference — Where does the light go?" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -255,7 +259,7 @@ _Demonstration_ of light reflected back toward source simultaneously with light 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fringe contrast — vibrations]({{< baseurl >}}/resources/fringe-contrast-2014-vibrations)
+{{% resource_link a5f062a3-0af4-a04e-b7ff-a6a519d7d03f "Fringe contrast — vibrations" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -270,7 +274,7 @@ Effect of vibrations on fringe contrast
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fringe contrast — intensity ratio]({{< baseurl >}}/resources/fringe-contrast-2014-intensity-ratio)
+{{% resource_link bdde4b07-5af3-fb24-686c-d928e90a4889 "Fringe contrast — intensity ratio" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -285,7 +289,7 @@ Effect of intensity difference between interfering beams on fringe contrast
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fringe contrast — polarization difference]({{< baseurl >}}/resources/fringe-contrast-2014-polarization-difference)
+{{% resource_link 6aebcc98-9351-ab53-2e63-dd55784b2f20 "Fringe contrast — polarization difference" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -304,7 +308,7 @@ _Demonstration_ of the effect of polarization difference on fringe contrast, sho
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fringe contrast — path difference]({{< baseurl >}}/resources/fringe-contrast-2014-path-difference)
+{{% resource_link 93e3f348-83e5-e87d-aceb-7c3c25b37a96 "Fringe contrast — path difference" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -323,7 +327,7 @@ Relationship between fringe contrast, path length difference, and spectrum of th
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Coherence length and source spectrum]({{< baseurl >}}/resources/coherence-length-and-source-spectrum)
+{{% resource_link cc9f4fd4-184b-c402-483b-1fa025b75377 "Coherence length and source spectrum" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -348,7 +352,7 @@ Relationship between fringe contrast and coherence length
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Plane mirror cavity — collimated beams]({{< baseurl >}}/resources/plane-mirror-cavity-2014-collimated-beams)
+{{% resource_link 838c6927-7e3c-ab92-90fb-b2070fa5d08c "Plane mirror cavity — collimated beams" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -367,7 +371,7 @@ Simultaneous observation of multiple beam interference in transmission and in re
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Plane mirror cavity — diverging beams]({{< baseurl >}}/resources/plane-mirror-cavity-2014-diverging-beams)
+{{% resource_link 36b5ddad-d901-159e-8cef-9f0e42a567de "Plane mirror cavity — diverging beams" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -384,7 +388,7 @@ Simultaneous observation of multiple beam interference in transmission and in re
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Curved mirror cavity — radial modes]({{< baseurl >}}/resources/curved-mirror-cavity-2014-radial-modes)
+{{% resource_link b41af246-26bb-76da-a870-93af17e54681 "Curved mirror cavity — radial modes" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -405,7 +409,7 @@ _Demonstration_ of the behavior just below and just above the confocal condition
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Optical spectrum analyzer]({{< baseurl >}}/resources/optical-spectrum-analyzer)
+{{% resource_link e492dbc4-cad3-9da2-d12f-bb022a1933d7 "Optical spectrum analyzer" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -426,7 +430,7 @@ _Demonstration_ of the use of a confocal cavity for the spectral analysis of mul
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — adjustable slit]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-adjustable-slit)
+{{% resource_link 53a83509-d009-747d-2506-c31bf3a9c879 "Fraunhofer diffraction — adjustable slit" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -441,7 +445,7 @@ _Demonstration_ of Fraunhofer diffraction by an adjustable narrow slit
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — two slits]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-two-slits)
+{{% resource_link 68711c8c-9cd7-63e0-de86-d2008823f035 "Fraunhofer diffraction — two slits" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -456,7 +460,7 @@ _Demonstration_ of Fraunhofer diffraction by pairs of 150 μm slits with spacing
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — multiple slits]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-multiple-slits)
+{{% resource_link ebf07715-82a7-e487-ef7a-f9abbd7cc94b "Fraunhofer diffraction — multiple slits" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -479,7 +483,7 @@ _Demonstration_ of Fraunhofer diffraction by multiple slits as a function of sli
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — thin wires]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-thin-wires)
+{{% resource_link a37c83d5-fc4d-08d7-e999-eab3ebdfa4a4 "Fraunhofer diffraction — thin wires" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -494,7 +498,7 @@ _Demonstration_ of Fraunhofer diffraction by thin wires with different diameters
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — rectangular aperture]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-rectangular-aperture)
+{{% resource_link b426a8dd-a9f9-90d1-e9dd-e9f212371aab "Fraunhofer diffraction — rectangular aperture" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -509,7 +513,7 @@ _Demonstration_ of Fraunhofer diffraction by an adjustable rectangular aperture
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — circular apertures]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-circular-apertures)
+{{% resource_link 5e5d825c-19c4-7250-57b8-400dbf0256c2 "Fraunhofer diffraction — circular apertures" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -524,7 +528,7 @@ _Demonstration_ of Fraunhofer diffraction by circular apertures with different d
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fraunhofer diffraction — crossed multiple slits]({{< baseurl >}}/resources/fraunhofer-diffraction-2014-crossed-multiple-slits)
+{{% resource_link bf052468-bf72-477e-3ff7-3192136c1bf0 "Fraunhofer diffraction — crossed multiple slits" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -539,7 +543,7 @@ _Demonstration_ of Fraunhofer diffraction by crossed multiple slits as a functio
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fresnel diffraction — adjustable slit]({{< baseurl >}}/resources/fresnel-diffraction-2014-adjustable-slit)
+{{% resource_link 46744c1a-d45f-b2d0-15fe-6d7f086491b5 "Fresnel diffraction — adjustable slit" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -556,7 +560,7 @@ Observation of the transition from Fresnel to Fraunhofer diffraction using an ad
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Fresnel diffraction — circular apertures]({{< baseurl >}}/resources/fresnel-diffraction-2014-circular-apertures)
+{{% resource_link 56f96e2a-b5d5-43ee-5a52-6636a9d1177b "Fresnel diffraction — circular apertures" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -579,7 +583,7 @@ _Demonstration_ of Fresnel diffraction by a circular aperture as a function of s
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Single mode fiber]({{< baseurl >}}/resources/single-mode-fiber)
+{{% resource_link 46cd5dbf-3493-6c1a-1b78-0ae684b0a5cd "Single mode fiber" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -598,7 +602,7 @@ _Demonstration_ of the effect of bends and stress on single mode transmission
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Multi-mode fiber]({{< baseurl >}}/resources/multi-mode-fiber)
+{{% resource_link 9db2eb69-de47-df3e-1ec6-6b62421d2893 "Multi-mode fiber" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -617,7 +621,7 @@ _Demonstration_ of single mode behavior in a multimode fiber using fiber bends t
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Polarization in a single mode fiber]({{< baseurl >}}/resources/polarization-in-a-single-mode-fiber)
+{{% resource_link c3afb3b3-7c42-dd80-8f72-8ee263f18938 "Polarization in a single mode fiber" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 

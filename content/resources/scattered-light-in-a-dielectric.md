@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -28,3 +29,6 @@ Propagation of linearly polarized light in a dielectric (Lucite) rod
 Observation of Rayleigh scattered light within rod
 
 _Demonstration_ that the state of polarization of the scattered light is the same as that of the incident light
+
+
+

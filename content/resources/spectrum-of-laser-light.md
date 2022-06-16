@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -36,3 +37,6 @@ _Demonstration_ of the polarization of the multiple frequencies from an internal
 _Demonstration_ of single-frequency output by polarization selection
 
 _Demonstration_ of the effect of temperature on the spectrum of the laser output
+
+
+

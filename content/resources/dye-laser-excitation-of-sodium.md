@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of the excitation of atomic sodium in a heated cell by a tunable dye laser
 
 Observation of intense radiation from the sodium vapor when the laser is on resonance with a ground state transition in sodium
+
+
+

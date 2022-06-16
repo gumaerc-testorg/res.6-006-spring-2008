@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of two-beam interference in a Michelson interferometer with collimated beams
 
 Effect of vibrations on fringe contrast
+
+
+

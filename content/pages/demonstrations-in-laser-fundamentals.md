@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Laser fundamentals I, Laser fundamentals II, and Laser fundamentals III.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Demonstrations in laser fundamentals
@@ -33,7 +34,7 @@ DESCRIPTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Simple laser]({{< baseurl >}}/resources/simple-laser)
+{{% resource_link 938d833d-8ebb-063d-7335-6eb4f2bbe8b8 "Simple laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -50,7 +51,7 @@ _Demonstration_ of a laser with external mirrors, showing the effect of cavity m
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Light amplifier]({{< baseurl >}}/resources/light-amplifier)
+{{% resource_link af1c0823-1449-7ffe-c00d-098253e6619c "Light amplifier" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -69,7 +70,7 @@ Measurement of the effect of amplifier fluorescence on detector output
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Polarization of laser light]({{< baseurl >}}/resources/polarization-of-laser-light)
+{{% resource_link 9c74e3f7-bafe-7c22-cef7-afcff74257c9 "Polarization of laser light" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -84,7 +85,7 @@ _Demonstration_ of the state of polarization of a laser with internal mirrors
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Spectrum of laser light]({{< baseurl >}}/resources/spectrum-of-laser-light)
+{{% resource_link ee650ddc-1412-a9e0-babd-39dd01e349aa "Spectrum of laser light" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -109,7 +110,7 @@ _Demonstration_ of the effect of temperature on the spectrum of the laser output
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Light inside and light outside laser]({{< baseurl >}}/resources/light-inside-and-light-outside-laser)
+{{% resource_link 82d1846e-e8bb-eedf-c314-7f5193a37063 "Light inside and light outside laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -130,7 +131,7 @@ Discussion of cavity dumping
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Optics of laser beams]({{< baseurl >}}/resources/optics-of-laser-beams)
+{{% resource_link 03f4630a-b068-06ba-54db-e1b674210031 "Optics of laser beams" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -153,7 +154,7 @@ Observation of the Rayleigh range
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Laser transverse modes]({{< baseurl >}}/resources/laser-transverse-modes)
+{{% resource_link ec96d0c5-81e6-9066-e399-769956c6b01b "Laser transverse modes" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -180,7 +181,7 @@ _Demonstration_ of the effect of blocking one of the lobes of a two-lobe mode ou
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Laser linewidth]({{< baseurl >}}/resources/laser-linewidth)
+{{% resource_link 500ea5f0-03b4-960a-8d8e-56b1dcd6a45a "Laser linewidth" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -203,7 +204,7 @@ Measurement of the fundamental laser linewidth using a two-frequency laser showi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Reflection back into laser]({{< baseurl >}}/resources/reflection-back-into-laser)
+{{% resource_link 1494c6e7-54b0-bec7-6479-37786b77cbd3 "Reflection back into laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -218,7 +219,7 @@ _Demonstration_ of the effect of back reflection into the laser on the intensity
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[High power argon laser]({{< baseurl >}}/resources/high-power-argon-laser)
+{{% resource_link a82d73b6-f494-2905-e5c2-31bb94a87c0e "High power argon laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -233,7 +234,7 @@ _Demonstration_ of the high intensity in the argon laser beam by burning a hole 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Multi-wavelength argon laser]({{< baseurl >}}/resources/multi-wavelength-argon-laser)
+{{% resource_link aa24e75d-befb-0855-f10e-741e7c8acbfe "Multi-wavelength argon laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -248,7 +249,7 @@ _Demonstration_ of simultaneous multiwavelength operation of an argon laser in t
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Single frequency argon laser]({{< baseurl >}}/resources/single-frequency-argon-laser)
+{{% resource_link f2f34c5e-51f7-a9a6-199a-4ef24630a4b9 "Single frequency argon laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -269,7 +270,7 @@ _Demonstration_ of the effect of aligning the intracavity etalon normal to the l
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Tunable dye laser]({{< baseurl >}}/resources/tunable-dye-laser)
+{{% resource_link 439f4c5a-f87e-c646-20d5-9100426975e5 "Tunable dye laser" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -284,7 +285,7 @@ _Demonstration_ of the wide tuning capability of the dye laser from green to yel
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Dye laser excitation of sodium]({{< baseurl >}}/resources/dye-laser-excitation-of-sodium)
+{{% resource_link f48a8c0d-80bc-164e-0119-86524a6b2893 "Dye laser excitation of sodium" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -299,7 +300,7 @@ Observation of intense radiation from the sodium vapor when the laser is on reso
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Dye laser induced fluorescence in iodine]({{< baseurl >}}/resources/dye-laser-induced-fluorescence-in-iodine)
+{{% resource_link 2885b708-740b-f134-29ce-81fe2e6b3e4a "Dye laser induced fluorescence in iodine" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 

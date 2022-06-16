@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Related courses.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Related courses

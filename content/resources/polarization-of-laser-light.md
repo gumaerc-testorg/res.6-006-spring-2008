@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of the state of polarization of a laser with external mirrors and the amplifier terminated with Brewster windows
 
 _Demonstration_ of the state of polarization of a laser with internal mirrors
+
+
+

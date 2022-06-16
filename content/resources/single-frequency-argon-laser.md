@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -32,3 +33,6 @@ _Demonstration_ of single-frequency operation using an intracavity etalon
 _Demonstration_ of the effect of etalon tuning on the single-frequency output of the laser showing mode hopping phenomena
 
 _Demonstration_ of the effect of aligning the intracavity etalon normal to the laser beam showing chaotic amplitude and frequency behavior
+
+
+

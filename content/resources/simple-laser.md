@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -28,3 +29,6 @@ Introduction to lasers
 _Demonstration_ of a simple laser with internal mirrors
 
 _Demonstration_ of a laser with external mirrors, showing the effect of cavity misalignment
+
+
+

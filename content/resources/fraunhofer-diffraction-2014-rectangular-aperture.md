@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of Fraunhofer diffraction by a fixed rectangular aperture
 
 _Demonstration_ of Fraunhofer diffraction by an adjustable rectangular aperture
+
+
+

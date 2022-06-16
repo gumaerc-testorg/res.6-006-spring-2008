@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -30,3 +31,6 @@ _Demonstration_ of the effect of input alignment changes on transverse modes
 _Demonstration_ of the effect of fiber bends and stresses on transverse modes
 
 _Demonstration_ of single mode behavior in a multimode fiber using fiber bends to eliminate higher order transverse modes
+
+
+

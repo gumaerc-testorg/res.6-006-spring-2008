@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of light inside laser cavity being much stronger than light leaving the laser
 
 Discussion of cavity dumping
+
+
+

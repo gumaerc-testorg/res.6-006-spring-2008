@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -34,3 +35,6 @@ Visualization of laser beam propagating in a water tank
 Visualization of focused laser beam in a water tank
 
 Observation of the Rayleigh range
+
+
+

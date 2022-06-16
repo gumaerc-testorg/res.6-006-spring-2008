@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -28,3 +29,6 @@ _Demonstration_ of Fresnel diffraction by a fixed slit
 _Demonstration_ of Fresnel diffraction by an adjustable slit
 
 Observation of the transition from Fresnel to Fraunhofer diffraction using an adjustable slit
+
+
+

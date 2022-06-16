@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -30,3 +31,6 @@ _Demonstration_ of the critical angle
 _Demonstration_ of the propagation of the transmitted beam along the boundary at the critical angle
 
 _Demonstration_ of Brewster's angle
+
+
+

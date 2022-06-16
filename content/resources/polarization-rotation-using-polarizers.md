@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -30,3 +31,6 @@ Limitation of the single polarizer method
 Rotation of the plane of polarization using two linear polarizers
 
 Effect of polarization rotation on transmitted intensity
+
+
+

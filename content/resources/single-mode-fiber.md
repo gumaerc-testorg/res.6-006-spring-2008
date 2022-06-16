@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -30,3 +31,6 @@ _Demonstration_ of single mode transmission
 _Demonstration_ of the effect of stress and bends applied to fiber showing light expelled by fiber
 
 _Demonstration_ of the effect of bends and stress on single mode transmission
+
+
+

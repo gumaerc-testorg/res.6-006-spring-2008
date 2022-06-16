@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -30,3 +31,6 @@ _Demonstration_ of 6% amplification per pass
 Calibration of detector using a fixed loss
 
 Measurement of the effect of amplifier fluorescence on detector output
+
+
+

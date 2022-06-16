@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in physical optics
@@ -28,3 +29,6 @@ _Demonstration_ of the absence of any change in the state of polarization of the
 _Demonstration_ of the change in the state of polarization of reflected light at a glass-air boundary above the critical angle, i.e., in total internal reflection
 
 Application of this effect to making quarter-wave and half-wave plates
+
+
+

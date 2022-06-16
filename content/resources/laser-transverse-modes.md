@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -38,3 +39,6 @@ Demonstration of the change in orientation of a transverse mode
 Demonstration of the effect of blocking one of the lobes of a two-lobe mode inside the laser cavity
 
 Demonstration of the effect of blocking one of the lobes of a two-lobe mode outside the laser cavity
+
+
+

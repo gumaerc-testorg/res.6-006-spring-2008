@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Demonstrations in laser fundamentals
@@ -26,3 +27,6 @@ video_metadata:
 _Demonstration_ of fluorescence induced by a tunable dye laser in a cell of molecular iodine
 
 Simultaneous display of the color of the dye laser and the color of the iodine fluorescence as a function of laser tuning showing large differences in color under certain conditions
+
+
+
