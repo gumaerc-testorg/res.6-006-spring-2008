@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ Where does the light go in destructive interference?
 _Demonstration_ that there is light in each arm of the interferometer in destructive interference
 
 _Demonstration_ of light reflected back toward source simultaneously with light transmitted from interferometer for equal paths and also for unequal paths of the interferometer
-
-
 

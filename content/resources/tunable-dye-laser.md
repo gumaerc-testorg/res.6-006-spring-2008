@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 Demonstration of the operation of a cw dye laser pumped by an argon laser
 
 Demonstration of the wide tuning capability of the dye laser from green to yellow to red
-
-
 

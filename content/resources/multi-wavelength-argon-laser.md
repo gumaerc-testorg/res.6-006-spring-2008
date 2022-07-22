@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 _Demonstration_ of the operation of an argon ion laser
 
 _Demonstration_ of simultaneous multiwavelength operation of an argon laser in the blue-green spectral range
-
-
 

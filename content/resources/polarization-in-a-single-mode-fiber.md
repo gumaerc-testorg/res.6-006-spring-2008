@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 _Demonstration_ of single mode propagation in an optical fiber
 
 _Demonstration_ of the state of polarization of the light exiting the fiber as a function of stress and bends applied to the fiber
-
-
 

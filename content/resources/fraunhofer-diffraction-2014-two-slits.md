@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 _Demonstration_ of Fraunhofer diffraction by a single slit
 
 _Demonstration_ of Fraunhofer diffraction by pairs of 150 μm slits with spacings ranging from 150 μm to 2 mm
-
-
 

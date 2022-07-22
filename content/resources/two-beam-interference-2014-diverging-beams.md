@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ _Demonstration_ of two-beam interference using diverging beams in a Michelson in
 _Demonstration_ of various fringe patterns as a function of the alignment of the interferometer mirrors
 
 Change in fringe pattern as a function of path length difference
-
-
 

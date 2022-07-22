@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ Description of a quarter-wave plate
 Use of a quarter-wave plate to change the state of polarization of light, e.g., from linear to elliptical (or to circular) polarization
 
 _Demonstration_ that there is no change in the state of polarization when propagating along either principal axis of the quarter-wave plate
-
-
 

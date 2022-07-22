@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ Introduction to lasers
 _Demonstration_ of a simple laser with internal mirrors
 
 _Demonstration_ of a laser with external mirrors, showing the effect of cavity misalignment
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ _Demonstration_ of single mode transmission
 _Demonstration_ of the effect of stress and bends applied to fiber showing light expelled by fiber
 
 _Demonstration_ of the effect of bends and stress on single mode transmission
-
-
 

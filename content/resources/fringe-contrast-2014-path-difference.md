@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ _Demonstration_ of the effect of path length difference (0-100 cm) on fringe con
 _Demonstration_ of the spectrum of the light source, in this case, a multilongitudinal mode He-Ne laser
 
 Relationship between fringe contrast, path length difference, and spectrum of the light source
-
-
 

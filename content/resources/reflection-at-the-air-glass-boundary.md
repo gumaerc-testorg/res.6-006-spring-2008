@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 Reflection and transmission of light at an air-glass boundary as a function of the angle of incidence (0-90º) for different states of polarization of the incident light
 
 _Demonstration_ of Brewster's angle
-
-
 

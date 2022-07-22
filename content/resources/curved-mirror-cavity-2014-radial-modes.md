@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ Observation of the cavity transmission associated with radial modes as a functio
 _Demonstration_ of the properties of a confocal resonator, i.e., where the radius of curvature of each mirror is equal to the mirror separation
 
 _Demonstration_ of the behavior just below and just above the confocal condition
-
-
 

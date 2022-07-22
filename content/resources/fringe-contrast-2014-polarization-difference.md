@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ _Determination_ of the state of polarization in each arm of the interferometer
 _Demonstration_ of the rotation of the plane of polarization in one arm of the interferometer using a quarter-wave plate
 
 _Demonstration_ of the effect of polarization difference on fringe contrast, showing zero contrast for orthogonal polarizations
-
-
 

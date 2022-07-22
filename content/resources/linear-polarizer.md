@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Use of a linear polarizer to analyze the state of polarization of light from a l
 _Demonstration_ of the change in the state of polarization of light after reflection by two aluminum coated mirrors
 
 Use of a linear polarizer to set the state of polarization of light
-
-
 

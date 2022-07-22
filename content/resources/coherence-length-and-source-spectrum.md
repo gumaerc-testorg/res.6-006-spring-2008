@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ _Demonstration_ of fringe contrast with path length difference for a single-freq
 _Demonstration_ of fringe contrast with path length difference for two- and three-frequency laser light sources
 
 Relationship between fringe contrast and coherence length
-
-
 

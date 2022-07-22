@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ _Demonstration_ of Fresnel diffraction by a circular aperture using a spatially 
 _Demonstration_ of Fresnel diffraction by circular apertures with different diameters
 
 _Demonstration_ of Fresnel diffraction by a circular aperture as a function of source distance
-
-
 

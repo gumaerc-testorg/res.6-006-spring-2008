@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -35,6 +36,4 @@ _Demonstration_ of Fraunhofer diffraction by four, five, six, seven, eight, nine
 _Demonstration_ of Fraunhofer diffraction by multiple slits with line spacings of 100 per inch, 200 per inch, 300 per inch, and 2000 per inch
 
 _Demonstration_ of Fraunhofer diffraction by multiple slits as a function of slit orientation
-
-
 

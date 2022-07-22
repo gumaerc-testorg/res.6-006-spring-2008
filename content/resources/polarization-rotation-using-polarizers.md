@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ Limitation of the single polarizer method
 Rotation of the plane of polarization using two linear polarizers
 
 Effect of polarization rotation on transmitted intensity
-
-
 

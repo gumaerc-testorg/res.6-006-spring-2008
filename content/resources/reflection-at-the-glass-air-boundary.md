@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -31,6 +32,4 @@ _Demonstration_ of the critical angle
 _Demonstration_ of the propagation of the transmitted beam along the boundary at the critical angle
 
 _Demonstration_ of Brewster's angle
-
-
 

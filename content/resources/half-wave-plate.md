@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ Description of a half-wave plate
 Use of a half-wave plate to rotate the plane of polarization from zero to ninety degrees with very little loss
 
 _Demonstration_ that there is no change in the state of polarization when propagating along either principal axis of the half-wave plate
-
-
 

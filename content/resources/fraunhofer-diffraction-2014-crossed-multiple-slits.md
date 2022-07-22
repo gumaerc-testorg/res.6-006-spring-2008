@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 _Demonstration_ of Fraunhofer diffraction by fixed crossed multiple slits
 
 _Demonstration_ of Fraunhofer diffraction by crossed multiple slits as a function of the relative orientation of the slits
-
-
 

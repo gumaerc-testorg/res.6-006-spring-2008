@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ _Demonstration_ of multiple beam interference using a plane mirror cavity in tra
 _Demonstration_ of multiple beam interference in reflection using the same cavity
 
 Simultaneous observation of multiple beam interference in transmission and in reflection
-
-
 
