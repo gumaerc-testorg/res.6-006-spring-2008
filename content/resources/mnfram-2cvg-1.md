@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/c874840b9feca024729d57c2bd359f4c_mNFRaM-2cvg.pdf
+file_size: 27702
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
